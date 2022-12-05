@@ -1,5 +1,7 @@
 # dotfiles
 ## All my custom config
+! ATTENTION! IN THE FILES: CONFIG.FISH AND .BASHRC I HAVE SOME "ALIAS" FOR BLEACHBIT, SECURE DELETION AND OTHERS,
+DO YOU CAN REMOVE.
 | BASH |  FISH | DWM | OTHERS |
 |------|-------|-----|--------|
 
