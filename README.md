@@ -15,3 +15,6 @@
 | cd dotfiles && mv .bashrc  ~/.bashrc/ && source ~/.bashrc |
 |:---:|
 
+# FFF 
+| cd dotfiles && cd fff && make install |
+|:---:|
