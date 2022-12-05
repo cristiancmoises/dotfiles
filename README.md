@@ -1,2 +1,4 @@
 # dotfiles
-All my custom config
+## All my custom config
+| BASH |  FISH | DWM |     
+|------|-------|-----|
